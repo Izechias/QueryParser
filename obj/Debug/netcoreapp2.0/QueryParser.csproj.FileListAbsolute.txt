@@ -1,0 +1,11 @@
+C:\workspace\Tools\QueryParser\bin\Debug\netcoreapp2.0\QueryParser.deps.json
+C:\workspace\Tools\QueryParser\bin\Debug\netcoreapp2.0\QueryParser.runtimeconfig.json
+C:\workspace\Tools\QueryParser\bin\Debug\netcoreapp2.0\QueryParser.runtimeconfig.dev.json
+C:\workspace\Tools\QueryParser\bin\Debug\netcoreapp2.0\QueryParser.dll
+C:\workspace\Tools\QueryParser\bin\Debug\netcoreapp2.0\QueryParser.pdb
+C:\workspace\Tools\QueryParser\obj\Debug\netcoreapp2.0\QueryParser.csprojResolveAssemblyReference.cache
+C:\workspace\Tools\QueryParser\obj\Debug\netcoreapp2.0\QueryParser.csproj.CoreCompileInputs.cache
+C:\workspace\Tools\QueryParser\obj\Debug\netcoreapp2.0\QueryParser.AssemblyInfoInputs.cache
+C:\workspace\Tools\QueryParser\obj\Debug\netcoreapp2.0\QueryParser.AssemblyInfo.cs
+C:\workspace\Tools\QueryParser\obj\Debug\netcoreapp2.0\QueryParser.dll
+C:\workspace\Tools\QueryParser\obj\Debug\netcoreapp2.0\QueryParser.pdb
